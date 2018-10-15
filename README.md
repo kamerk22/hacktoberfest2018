@@ -25,7 +25,7 @@ Kashyap Merai | Web Team Lead | Ahmedabad, India | [Profile](http://kamerk22.git
 
 <img src="https://raw.githubusercontent.com/kamerk22/hacktoberfest2018/master/kudos.gif?token=AK-Ga0jyOvO7uKx2VtOgeh66273ZL7Ciks5bzg5jwA%3D%3D" width="600"  />
   
-**Spread the love by giving a star to this repository.**
+**Spread the love by giving a star ⭐ to this repository.**
 
 
 
