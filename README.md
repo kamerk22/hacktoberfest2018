@@ -4,7 +4,7 @@
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 # What is Hacktoberfest?
-Hacktoberfest is a month-long celebration in open source community. It motivates open source contributors as well as first-time contributors. For the first time contributor, it's a bit hard or overwhelming but the fun part is "Everyone is welcome"
+[Hacktoberfest](https://hacktoberfest.digitalocean.com/) is a month-long celebration in open source community. It motivates open source contributors as well as first-time contributors. For the first time contributor, it's a bit hard or overwhelming but the fun part is "Everyone is welcome"
 
 
 > "Every master was once a beginner. Every pro was once an amateur." - Robin Sharma
@@ -21,9 +21,13 @@ Kashyap Merai | Web Team Lead | Ahmedabad, India | [Profile](http://kamerk22.git
 
 
 3. Commit your fork.
-4. [Create a pull request](https://services.github.com/on-demand/intro-to-github/create-pull-request) with a description about changes you've made.
+4. [Create a pull request](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github) with a description about changes you've made.
+5. Kudos !! 🎊🎉
 
-<img src="https://raw.githubusercontent.com/kamerk22/hacktoberfest2018/master/kudos.gif?token=AK-Ga0jyOvO7uKx2VtOgeh66273ZL7Ciks5bzg5jwA%3D%3D" width="600"  />
+
+<img src="https://raw.githubusercontent.com/kamerk22/hacktoberfest2018/master/kudos.gif" width="600"  />
+
+
   
 **Spread the love by giving a star ⭐ to this repository.**
 
