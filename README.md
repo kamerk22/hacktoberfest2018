@@ -35,3 +35,4 @@ Kashyap Merai | Web Team Lead | Ahmedabad, India | [Profile](http://kamerk22.git
 
 # Awesome Contributors 😎
 - Kashyap Merai | Web Team Lead | Ahmedabad, India | [Profile](http://kamerk22.github.io)
+- Pocholo Recto | Web developer | Philippines | [Profile](https://github.com/cholorecto)
