@@ -1,7 +1,7 @@
 # hacktoberfest2018
 🎉 For beginners ( everyone was once! ) to open source. 
 
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source-150x25.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 # What is Hacktoberfest?
 [Hacktoberfest](https://hacktoberfest.digitalocean.com/) is a month-long celebration in open source community. It motivates open source contributors as well as first-time contributors. For the first time contributor, it's a bit hard or overwhelming but the fun part is "Everyone is welcome"
