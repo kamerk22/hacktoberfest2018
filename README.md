@@ -38,3 +38,4 @@ Kashyap Merai | Web Team Lead | Ahmedabad, India | [Profile](http://kamerk22.git
 - Angelica Tamayo | UIUX Designer | Davao City, Philippines | [Profile](https://github.com/angelicaT3)
 - Pocholo Recto | Web developer | Philippines | [Profile](https://github.com/cholorecto)
 - Kerstine Rodilla | Quality Assurance | Philippines | [Profile](https://github.com/kerstinerodilla)
+- Jahzeel Pontillas | Web developer | Philippines | [Profile](https://github.com/Jahzeelirish)
